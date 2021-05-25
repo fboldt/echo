@@ -1,0 +1,29 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "description": "Simple application that repeats parameters and values sent by HTTP post requests.",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fboldt/echo.git"
+  },
+  "keywords": [
+    "web",
+    "development",
+    "learning"
+  ],
+  "author": "Francisco de Assis Boldt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fboldt/echo/issues"
+  },
+  "homepage": "https://github.com/fboldt/echo#readme"
+}
