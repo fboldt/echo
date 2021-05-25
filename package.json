@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Simple application that repeats parameters and values sent by HTTP post requests.",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^27.0.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
